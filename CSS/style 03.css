@@ -1,0 +1,130 @@
+<style>
+
+
+body {
+  background-color: #FFFFFF;
+  font-family: Nunito, Helvetica, sans-serif;
+  color: #000000;
+}
+
+div.site {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: left;
+  font-size: 25px;
+  letter-spacing: 1px;
+  font-weight: 1000;
+  padding: 5px 50px;
+  word-spacing: 900px;
+}
+
+nav {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 800;
+  letter-spacing: 3px;
+  display: block;
+  text-decoration: none;
+  list-style-type: none;
+  top: 0;
+  background-color: #FFFFFF;
+  padding: 15px 0px;
+  position: relative;
+  position: sticky;
+  max-width: 100%
+}
+
+
+div.acd {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: left;
+  letter-spacing: 1px;
+  font-weight: 800;
+  font-size: 70px;
+  padding: 100px 100px;
+  line-height: 0.1;
+}
+
+div.acd1 {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: right;
+  letter-spacing: 1px;
+  font-weight: 800;
+  font-size: 70px;
+  padding: 100px 100px;
+  line-height: 0.1;
+}
+
+a:link, a:visited {
+  color: #545454;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px;
+}
+
+div.lar {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: left;
+  letter-spacing: 1px;
+  font-weight: 800;
+  font-size: 25px;
+  padding: 70px 250px;
+  margin: 55px;
+  
+}
+
+div.lar img {
+  float:right;
+  height: auto;
+  padding-bottom: 150px;
+  padding-top: 50px;
+  width: 316px;
+  max-width: 100%
+}
+
+div.texto1 {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align:justify;
+  letter-spacing: 1px;
+  font-weight: 800;
+  font-size: 25px;
+  padding: 0px 250px;
+  line-height: 150%
+} 
+
+div.titulo {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: left;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 22px;
+  padding: 5px 75px;
+} 
+
+div.desc {
+  font-family: Nunito, Helvetica, sans-serif;
+  padding: 10px;
+  text-align: center;
+  color: #000000;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+div.productos img {
+  width: 100%;
+  height: auto;
+}
+
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #FFFFFF;
+        }
+
+        .image-container img {
+            width: 60vw; 
+            height: auto;
+        }
+
+</style>

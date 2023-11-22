@@ -1,0 +1,119 @@
+<style>
+
+body {
+  background-color: #FFFFFF;
+  font-family: Nunito, Helvetica, sans-serif;
+  color: #000000;
+}
+
+
+div.site {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: left;
+  font-size: 25px;
+  letter-spacing: 1px;
+  font-weight: 1000;
+  padding: 5px 50px;
+  word-spacing: 950px;
+}
+
+nav {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 800;
+  letter-spacing: 3px;
+  display: block;
+  text-decoration: none;
+  list-style-type: none;
+  top: 0;
+  width: 100%;
+  background-color: #FFFFFF;
+  padding: 15px 0px;
+  position: sticky;
+}
+
+a:link, a:visited {
+  color: #545454;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px;
+}
+
+.gallery {
+  font-family: Nunito, Helvetica, sans-serif;
+  float: right;
+}
+
+.texto::after {
+  font-family: Nunito, Helvetica, sans-serif;
+  content: "";
+  clear: both;
+  display: table;
+}
+
+div.nombre {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+  font-weight: 800;
+  font-size: 30px;
+}
+
+div.descripción {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: justify;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 25px;
+  padding: 1px 40px;
+  line-height: 150%
+}
+
+div.efecto {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align: justify;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 17px;
+  padding: 1px 40px;
+  line-height: 150%
+}
+
+
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 80vh;
+            background-color: #FFFFFF;
+        }
+
+        .image-container img {
+            width: 50vw;
+            height: auto;
+        }
+
+div.productos {
+  font-family: Nunito, Helvetica, sans-serif;
+  margin: 55px;
+  float: left;
+  width: 600px;
+}
+
+div.productos img {
+  width: 100%;
+  height: auto;
+
+}
+
+div.texto1 {
+  font-family: Nunito, Helvetica, sans-serif;
+  text-align:justify;
+  letter-spacing: 1px;
+  font-weight: 800;
+  font-size: 25px;
+  padding: 0px 250px;
+  line-height: 150%
+} 
+
+</style>
